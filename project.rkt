@@ -2,7 +2,7 @@
 (require csc151)
 
 
-;~~~~~ WE AIN'T POLITICAL SCIENTISTS, WE COMPUTER SCIENTISTS ~~~~~~~~~~~~~~~~~~~~ 
+
 
 
 
